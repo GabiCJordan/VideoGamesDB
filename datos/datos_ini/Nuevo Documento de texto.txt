@@ -1,0 +1,10 @@
+<videojuegos>
+  <videojuego>
+    <id>1</id>
+    <titulo>The Legend of Zelda: Breath of the Wild</titulo>
+    <genero>Aventura</genero>
+    <anio>2017</anio>
+    <nota>9.5</nota>
+  </videojuego>
+  <!-- ... resto de videojuegos ... -->
+</videojuegos>
